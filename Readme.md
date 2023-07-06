@@ -1,4 +1,4 @@
-Mern Stack Authentication
+## Mern Stack Authentication
 
 This application is a foundational tool for building a MERN stack application with user authentication. It incorporates a single-page application (SPA) workflow using React, Redux, React Router, and React Bootstrap on the front-end. The backend utilizes Express, MongoDB, and Mongoose for the database, with authentication implemented through JSON Web Tokens (JWT) and HTTP-only cookies. State management is handled with Redux, and the Redux Toolkit is employed to simplify development. The application leverages the Vite Build tool for efficient SPA development.
 
